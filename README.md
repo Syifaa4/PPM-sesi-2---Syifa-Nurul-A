@@ -1,4 +1,5 @@
-<img width="1919" height="822" alt="image" src="https://github.com/user-attachments/assets/b89721f1-129e-425f-a9c0-377715793196" /># 🍱 FreshSave — Save Food, Save Money
+# 🍱 FreshSave — Save Food, Save Money
+<img width="1910" height="829" alt="image" src="https://github.com/user-attachments/assets/4127eb7d-5b03-469e-a46c-8217d677f69f" />
 
 **PPM Sesi 2 — Dasar Flutter dan Widget**
 
