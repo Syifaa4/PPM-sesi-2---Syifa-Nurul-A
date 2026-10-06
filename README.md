@@ -52,7 +52,3 @@ flutter run
 ## 📸 Screenshot
 <img width="1911" height="824" alt="image" src="https://github.com/user-attachments/assets/3f699b05-2522-4c8e-a46f-734679a7bb54" />
 <img width="1917" height="822" alt="image" src="https://github.com/user-attachments/assets/765c6171-445e-4edd-9ab6-d8fcc2e07742" />
-<img width="1917" height="822" alt="image" src="https://github.com/user-attachments/assets/6779bd96-d53e-489a-949d-9314c71496bc" />
-
-
-
